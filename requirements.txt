@@ -1,0 +1,6 @@
+streamlit==1.24.0  # For building the web app
+numpy==1.25.0      # For numerical calculations
+matplotlib==3.8.0  # For plotting radar charts and histograms
+sqlalchemy==2.0.20 # For database ORM
+pandas==2.1.0      # For handling Excel files
+watchdog==3.0.0    # For monitoring file changes
